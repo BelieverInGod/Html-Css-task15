@@ -1,0 +1,34 @@
+.vse {
+    display: inline-block;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.verh {
+    background: lightskyblue;
+    width: 120px;
+    text-align: center;
+    font-family: cursive ;
+    font-size: 1.5em
+}
+
+.seredina {
+    width: 100px;
+    margin-left: 10px;
+}
+
+.seredina1 {
+    width: 120px;
+    align-items: center;
+}
+
+.niz {
+    width: 120px;
+    text-align: center;
+    font-family: sans-serif (400);
+    font-size: 2em;
+}
+
+.vse:hover {
+    border: 2px solid lightslategray;
+}
